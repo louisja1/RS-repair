@@ -1,5 +1,5 @@
 # The Cost of Representation by Subset Repairs
-This is the github repository for paper "The Cost of Representation by Subset Repairs". This version is only for the reviewers.
+This is the github repository for paper "The Cost of Representation by Subset Repairs" to appear at VLDB 2025
 
 ## Project Structure
 + `data/`: a folder containing the input datas (input relations, FD sets, RCs). There are two examples for a demo below stored in `data/example/` and `data/example2/` respectively. There are also our input datas for the experiments in `data/input_data_acs/` and `data/input_data_compas/` (detailed explanation below).
